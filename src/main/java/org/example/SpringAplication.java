@@ -7,7 +7,7 @@ import org.springframework.context.ApplicationContext;
 @SpringBootApplication
 public class SpringAplication {
     public static void main(String[] args) {
-        System.out.println("This write Mike!");
+        System.out.println("This write Mike");
         SpringApplication.run(SpringAplication.class,args);
     }
 }
